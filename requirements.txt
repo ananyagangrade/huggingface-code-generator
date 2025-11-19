@@ -1,8 +1,0 @@
-transformers
-torch
-sentencepiece
-huggingface_hub
-black
-sqlparse
-pyjsparser
-beautifulsoup4
